@@ -54,7 +54,7 @@
         "lodash": "^4.17.4",
         "md5": "^2.2.1",
         "moment": "^2.18.1",
-        "node-sass": "^4.5.3",
+        "node-sass": "^7.0.0",
         "nodemon": "^1.12.5",
         "npm-run-all": "^4.0.2",
         "obj-traverse": "^1.0.0",
